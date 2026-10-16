@@ -1,6 +1,7 @@
-# FABEI website media
+# Media
 
-Images and films used on the FABEI homepage (www.fabei.com.tw), served through jsDelivr
-(`https://cdn.jsdelivr.net/gh/Mark-lin13/fabei-media@<tag>/…`), which sends the CORS headers the page's WebGL needs.
+版權所有，盜用必究。
 
-© FABEI. All rights reserved. These files are published only so the website can load them; no licence is granted.
+All rights reserved. Unauthorized use is prohibited.
+
+若有設計需要，請聯繫開發者：service@jhmc.tw
